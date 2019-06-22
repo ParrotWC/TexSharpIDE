@@ -1,0 +1,28 @@
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\TeX Sharp IDE.exe.config
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\TeX Sharp IDE.exe
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\TeX Sharp IDE.pdb
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.csprojResolveAssemblyReference.cache
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.MainForm.resources
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.Properties.Resources.resources
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.csproj.GenerateResource.Cache
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.exe
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.pdb
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.CompieleSettingsForm.resources
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.Forms.MML.resources
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.Forms.Draw.resources
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.Forms.PreDraw.resources
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.csproj.ResolveComReference.cache
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.Forms.draw.HelpForm.resources
+C:\Anton\Develop\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX_Sharp_IDE.Forms.Prompt.resources
+C:\Anton\Dev\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\bin\Debug\TeX Sharp IDE.exe.config
+C:\Anton\Dev\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.csproj.ResolveComReference.cache
+C:\Anton\Dev\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.exe
+C:\Anton\Dev\Projects\Inst\TeX Sharp IDE\TeX Sharp IDE\obj\Debug\TeX Sharp IDE.pdb
